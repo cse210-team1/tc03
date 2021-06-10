@@ -6,4 +6,9 @@ Steven Bio:
 	Major: Software Engineering
 	Minor: Marketing
 	Occupation: Student
-	Interests: Video games, pickelball, volleyball, soccer, and cheese burgers
+	
+Jacob Cloward: 
+	Name: Jacob Cloward
+	Major: Software Engineering
+	Minor: don't have one yet 
+	Occupation: Student and Pre-Setup Specialist for Kenect
