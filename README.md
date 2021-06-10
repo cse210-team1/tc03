@@ -5,3 +5,15 @@ TJ Putnam:
 	I am from Aurora, Colorado. It is currently my 5th semester at BYUI, and I have recently switched my major
 	from Electrical Engineering to Software Engineering. I've always enjoyed the behind-the-scenes aspect of
 	programming, and I've been somewhat good at it. When not programming, I like to play games and read.
+  
+Steven Bio:
+	Name: Steven Sellers
+	Major: Software Engineering
+	Minor: Marketing
+	Occupation: Student
+	
+Jacob Cloward: 
+	Name: Jacob Cloward
+	Major: Software Engineering
+	Minor: don't have one yet 
+	Occupation: Student and Pre-Setup Specialist for Kenecut
